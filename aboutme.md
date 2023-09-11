@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Who we are and where to find us.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are a group of students (Master's and PhD's) working on computational physics applied to quantum mechanics. 
+Here are some of out research interests:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- a
+- b
 
-What else do you need?
 
-### My story
+### Where do we spend our days (and some nights :p)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+CCSE - [Center for Computing in Science Education](https://www.mn.uio.no/ccse/english/)
+
+
