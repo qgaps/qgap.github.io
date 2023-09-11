@@ -8,8 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Can i render mathjax?
-
 $$
 \hat{T} = -\frac{1}{2}\nabla^2
 $$
