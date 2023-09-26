@@ -24,13 +24,29 @@ subtitle: Previous and upcomming topics
 <tr>
     <td>Sep. 25th (Week 39)</td>
     <td>  15:15 </td>
-    <td>  (Probably) Ø434 Physics Department </td>
-    <td> Oskar Leinonen, Jonas Boym Flaten, Stian Dysthe Bilek (Øyvind Sigmundson Schøyen?) </td>
+    <td>  Ø434 Physics Department </td>
+    <td> Oskar Leinonen, Jonas Boym Flaten, Stian Dysthe Bilek, Øyvind Sigmundson Schøyen </td>
     <td> Talk about their current paper, generation and evolution of entanglement in quantum many-body systems. Theoretically investigate the generation of motional entanglement between two electrons via their unscreened Coulomb interaction. <a href="https://qgaps.github.io/2023-09-22-quantum-consulting/">More Here</a> </td>
   </tr>
 
   <tr>
     <td>Oct. 2nd (Week 40)</td>
+    <td>  15:15 </td>
+    <td>  TBA </td>
+    <td> Keran Victoria Chen </td>
+    <td> TBA </td>
+  </tr>
+
+  <tr>
+    <td>Oct. 9th (Week 41)</td>
+    <td>  15:15 </td>
+    <td>  TBA </td>
+    <td> TBA </td>
+    <td> TBA </td>
+  </tr>
+
+  <tr>
+    <td>Oct. 16th (Week 42)</td>
     <td>  15:15 </td>
     <td>  TBA </td>
     <td> TBA </td>
