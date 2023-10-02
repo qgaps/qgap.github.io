@@ -32,9 +32,9 @@ subtitle: Previous and upcomming topics
   <tr>
     <td>Oct. 2nd (Week 40)</td>
     <td>  15:15 </td>
-    <td>  TBA </td>
+    <td>  CCSE, FØ457 </td>
     <td> Keran Victoria Chen </td>
-    <td> TBA </td>
+    <td> Recent advances on the Variational Quantum Eigensolver (VQE), perhaps the most popular algorithm for solving quantum mechanical problems on present days quantum computers. <a href="https://qgaps.github.io/2023-10-02-ADAPT-VQE">More Here</a> </td>
   </tr>
 
   <tr>
