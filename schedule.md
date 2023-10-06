@@ -40,9 +40,9 @@ subtitle: Previous and upcomming topics
   <tr>
     <td>Oct. 9th (Week 41)</td>
     <td>  15:15 </td>
-    <td>  TBA </td>
-    <td> TBA </td>
-    <td> TBA </td>
+    <td>  CCSE, FØ457 </td>
+    <td> Håkon Kvernmoen </td>
+    <td>  Short introduction to coupled-cluster theory, introducing the exponential ansatz and discussing different truncation levels. Ground state calculations will be covered, regarding both energy and additions to handle other observables. <a href="https://qgaps.github.io/2023-10-06-coupled-cluster">More Here</a> </td>
   </tr>
 
   <tr>
