@@ -48,7 +48,15 @@ subtitle: Previous and upcomming topics
   <tr>
     <td>Oct. 16th (Week 42)</td>
     <td>  15:15 </td>
-    <td>  TBA </td>
+    <td>  CCSE, FØ457 </td>
+    <td> Marianne E. Bathen </td>
+    <td> How to build a quantum computer,  birds view on present technological challenges and recent progress <a href="https://qgaps.github.io/2023-10-11-how-to-build-a-quantum-computer">More Here</a> </td>
+  </tr>
+
+  <tr>
+    <td>Oct. 23th (Week 43)</td>
+    <td>  15:15 </td>
+    <td>  CCSE, FØ457 </td>
     <td> TBA </td>
     <td> TBA </td>
   </tr>
