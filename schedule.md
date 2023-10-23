@@ -57,6 +57,14 @@ subtitle: Previous and upcomming topics
     <td>Oct. 23th (Week 43)</td>
     <td>  15:15 </td>
     <td>  CCSE, FØ457 </td>
+    <td> Ruben Pariente Bassa </td>
+    <td> Discussion of different quantum simulations of the simplest lattice gauge theory, the Z2 model, performed on a superconductive device <a href="https://qgaps.github.io/2023-10-23-qc-lattice-gauge-theory/">More Here</a> </td>
+  </tr>
+
+  <tr>
+    <td>Oct. 30th (Week 44)</td>
+    <td>  15:15 </td>
+    <td>  CCSE, FØ457 </td>
     <td> TBA </td>
     <td> TBA </td>
   </tr>
