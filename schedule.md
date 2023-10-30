@@ -18,7 +18,7 @@ subtitle: Previous and upcomming topics
     <td>  15:15 </td>
     <td>  Ø434 Physics Department</td>
     <td>Daniel Haas</td>
-    <td>A beginner's view on Stochastic Reconfiguration which is highly relevant for machine learning studies of quantum mechanical problems, in particular for Monte Carlo approaches for many-body problems.</td>
+    <td>A beginner's view on Stochastic Reconfiguration which is highly relevant for machine learning studies of quantum mechanical problems, in particular for Monte Carlo approaches for many-body problems. <a href="https://qgaps.github.io/2020-02-28-sample-markdown">More Here</a> </td>
   </tr>
 
 <tr>
