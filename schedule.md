@@ -65,6 +65,14 @@ subtitle: Previous and upcomming topics
     <td>Oct. 30th (Week 44)</td>
     <td>  15:15 </td>
     <td>  CCSE, FØ457 </td>
+    <td> Christopher Linderaelv </td>
+    <td> Time dependent simulations in materials science <a href="https://qgaps.github.io/2023-10-30-Time-dependent-simulations-in-materials-science.md">More Here</a> </td>
+  </tr>
+
+  <tr>
+    <td>Nov. 6th (Week 45)</td>
+    <td>  15:15 </td>
+    <td>  CCSE, FØ457 </td>
     <td> TBA </td>
     <td> TBA </td>
   </tr>
