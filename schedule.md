@@ -73,6 +73,22 @@ subtitle: Previous and upcomming topics
     <td>Nov. 6th (Week 45)</td>
     <td>  15:15 </td>
     <td>  CCSE, FØ457 </td>
+    <td> Morten Hjort-Jensen </td>
+    <td> Artificial intelligence and machine learning applied to quantum simulations. <a href="https://qgaps.github.io/2023-10-30-ai-and-ml-qs.md">More Here</a> </td>
+  </tr>
+
+  <tr>
+    <td>Nov. 13th (Week 46)</td>
+    <td>  15:15 </td>
+    <td>  CCSE, FØ457 </td>
+    <td> TBA </td>
+    <td> TBA </td>
+  </tr>
+
+  <tr>
+    <td>Nov. 20th (Week 47)</td>
+    <td>  15:15 </td>
+    <td>  CCSE, FØ457 </td>
     <td> TBA </td>
     <td> TBA </td>
   </tr>
