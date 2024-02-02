@@ -22,7 +22,7 @@ Educational topics can also be included.
 
 ## Our meetings are on Mondays (start 2024: January 22),
 at **3:15pm** at the Center for Computing Science Education, Physics
-bulding, seminar room **FØ465** (Physics building, eastern wing).
+bulding, seminar room **Ø465** (Physics building, eastern wing).
 
 Also available via  [zoom](https://msu.zoom.us/j/92966123227?pwd=ME02YmE5UGVCZGhCNWJPZG1zcExQZz09)
 Meeting ID: 929 6612 3227
